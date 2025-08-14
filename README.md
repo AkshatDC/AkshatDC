@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on: training AI to work smarter<br>👯 I’m looking to collaborate on Computer Science projects<br>🤝 I’m looking for help with uploading my locally stored projects on GitHub<br>🌱 I’m currently pursuing: Computer Science<br>💬 Ask me about myself, I'm fun to know.
+# 🧩 Hello World!:
+
+I’m Akshat, a professional neural network wrangler (for now) 🎯 <br>
+
+🧠 Training models to be smarter than they look, and occasionally letting them win.
+🌐 Building things that live somewhere between research paper and production.
+🐉 I like architectures that evolve, optimizers that behave, and datasets that don’t fight back.
+🚀 Currently working on ideas I can’t fully explain (black box, remember?).
+🌪️ Balancing experiments, research, and the occasional “why is this converging?” crisis.
+
+Still writing my README… one well-trained epoch at a time
 
 
 ## 🌐 Socials:
