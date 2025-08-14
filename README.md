@@ -2,13 +2,13 @@
 
 I’m Akshat, a professional neural network wrangler (for now) 🎯 <br>
 
-🧠 Training models to be smarter than they look, and occasionally letting them win.
-🌐 Building things that live somewhere between research paper and production.
-🐉 I like architectures that evolve, optimizers that behave, and datasets that don’t fight back.
-🚀 Currently working on ideas I can’t fully explain (black box, remember?).
-🌪️ Balancing experiments, research, and the occasional “why is this converging?” crisis.
+🧠 Training models to be smarter than they look, and occasionally letting them win.<br>
+🌐 Building things that live somewhere between research paper and production.<br>
+🐉 I like architectures that evolve, optimizers that behave, and datasets that don’t fight back. <br>
+🚀 Currently working on ideas I can’t fully explain (black box, remember?).<br>
+🌪️ Balancing experiments, research, and the occasional “why is this converging?” crisis. <br>
 
-Still writing my README… one well-trained epoch at a time
+Still writing my README… one well-trained epoch at a time <br>
 
 
 ## 🌐 Socials:
